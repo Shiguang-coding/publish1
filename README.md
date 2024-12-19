@@ -8,7 +8,7 @@
 
 # 在线预览
 
-https://publish1.shiguang666.eu.org/
+https://publish.shiguang666.eu.org/
 
 
 
